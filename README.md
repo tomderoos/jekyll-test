@@ -4,3 +4,7 @@
 
 ### Heading 3
 
+List
+- Dog
+- Cat
+- Bird
